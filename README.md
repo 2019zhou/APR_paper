@@ -12,6 +12,8 @@
 - TSE
 - CCS
 - S&P
+- 计算机学报
+- 软件学报
 
 ## Taxonomy
 1. Present in a chronological order 以年代为主序
