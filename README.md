@@ -53,10 +53,12 @@
 ### 2019
 #### ICSE
 - H. Wang, Y. Li, S. W. Lin, L. Ma, and Y. Liu,[ “VULTRON: Catching vulnerable smart contracts once and for all” ](/bug_fixing_paper_collection/icse2019_bonus.pdf)
-- S. Saha, R. K. Saha, and M. R. Prasad, “Harnessing Evolution for Multi-Hunk Program Repair” 
-- D. X. B. Le, L. Bao, D. Lo, X. Xia, S. Li, and C. Pasareanu “On Reliability of Patch Correctness Assessment” 
-- M. Tufano, J. Pantiuchina, C. Watson, G. Bavota, and D. Poshyvanyk “On Learning Meaningful Code Changes Via Neural Machine Translation” 
-- K. Liu et al. “Learning to Spot and Refactor Inconsistent Method Names” 
+  - Tags: 
+- S. Saha, R. K. Saha, and M. R. Prasad, [“Harnessing Evolution for Multi-Hunk Program Repair”](/bug_fixing_paper_collection/icse2019_2.pdf) 
+  - Tags: `fix`
+- D. X. B. Le, L. Bao, D. Lo, X. Xia, S. Li, and C. Pasareanu [“On Reliability of Patch Correctness Assessment”](/bug_fixing_paper_collection/icse2019_4.pdf)
+  - Tags: `fix`
+- M. Tufano, J. Pantiuchina, C. Watson, G. Bavota, and D. Poshyvanyk [“On Learning Meaningful Code Changes Via Neural Machine Translation” ](/bug_fixing_paper_collection/icse2019_3.pdf)
 
 #### FSE
 #### ASE
