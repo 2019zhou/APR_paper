@@ -27,6 +27,7 @@
 - `fix`
 - `predict`
 - `recommendation`
+- `automatic`
 - :blush: // GOOD article
 - yet to explore~~
 
@@ -81,7 +82,18 @@
 #### TSE
 #### CCS
 #### S&P
-
+#### 软件学报
+- 周风顺,王林章,李宣东.[C/C++程序缺陷自动修复与确认方法](/bug_fixing_Chinese_conf/程序缺陷自动修复与确认方法_周风顺.pdf)
+  - Tags: `automatic` `fix`
+- 李斌,贺也平,马恒太.[程序自动修复:关键问题及技术](/bug_fixing_Chinese_conf/程序自动修复_关键问题及技术_李斌.pdf)
+  - Tags: `automatic` `fix`
+- 朱子骁,邹艳珍,华晨彦,沈琦,赵俊峰.[基于StackOverflow 数据的软件功能特征挖掘组织方法](/bug_fixing_Chinese_conf/基于StackOverflow数据的软件功能特征挖掘组织方法_朱子骁.pdf)
+  - Tags: `detect`
+#### 计算机学报
+- 刘旭亮，钟浩．[一种基于StackOverflow 分析的程序自动修复方法](/bug_fixing_Chinese_conf/一种基于StackOverflow分析的程序自动修复方法_刘旭亮.pdf)
+  - Tags: `automatic` `fix`
+- 王赞 [自动程序修复方法研究述评](/bug_fixing_Chinese_conf/自动程序修复方法研究述评_王赞.pdf)
+  - Tags: `综述` `fix`
 ### 2017
 #### ICSE
 #### FSE
@@ -105,7 +117,9 @@
 #### TSE
 #### CCS
 #### S&P
-
+#### 软件学报
+- 玄跻峰,任志磊,王子元,谢晓园,江贺.[自动程序修复方法研究进展](/bug_fixing_Chinese_conf/自动程序修复方法研究进展_玄跻峰.pdf)
+  - Tags: `综述` `fix`
 ### 2015
 #### ICSE
 #### FSE
