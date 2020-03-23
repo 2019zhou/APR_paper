@@ -57,7 +57,7 @@
 - M. Bicocca and D. Ginelli, “[Failure-Driven Program Repair](/bug_fixing_paper_collection/fse2019_4.pdf),” ESEC/FSE 2019 - Proc. 2019 27th ACM Jt. Meet. Eur. Softw. Eng. Conf. Symp. Found. Softw. Eng., pp. 1156–1159, 2019.
   - Tags: `fix`
 -	T. Sonnekalb, “[Machine-learning supported vulnerability detection in source code](/bug_fixing_paper_collection/fse2019_bonus.pdf),” ESEC/FSE 2019 - Proc. 2019 27th ACM Jt. Meet. Eur. Softw. Eng. Conf. Symp. Found. Softw. Eng., pp. 1180–1183, 2019.
-  - Tags: `detect`
+- - Tags: `detect`
 -	A. Shi, W. Lam, R. Oei, T. Xie, and D. Marinov, “[IFixFlakies: A framework for automatically fixing order-dependent flaky tests](/bug_fixing_paper_collection/fse2019_2.pdf),” ESEC/FSE 2019 - Proc. 2019 27th ACM Jt. Meet. Eur. Softw. Eng. Conf. Symp. Found. Softw. Eng., pp. 545–555, 2019.
   
 #### ASE
@@ -105,7 +105,7 @@
   
 #### TOSEM
 - Klaas-Jan Stol and Brian Fitzgerald. 2018. [The ABC of Software Engineering Research.](/bug_fixing_paper_collection/tosem2018_ABC.pdf)
-  - Tags: `:blush` `ABC`
+  - Tags: :blush: `ABC`
 - Sergey Mechtaev, Xiang Gao, Shin Hwei Tan, and Abhik [Roychoudhury. 2018. Test-Equivalence Analysis for Automatic Patch Generation](/bug_fixing_paper_collection/tosem2018_1.pdf).
   - Tags: `fix`
 
