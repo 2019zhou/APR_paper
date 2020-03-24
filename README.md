@@ -2,23 +2,18 @@
 
 ## Conference & Journal Information
 - The conference & journals that we include
-- [ICSE](https://dblp.org/db/conf/icse/)
-- [FSE](https://dblp.org/db/conf/sigsoft/)
-- [ASE](https://dblp.org/db/conf/kbse/)
-- [PLDI](https://dblp.org/db/conf/pldi/)
-- [POPL](https://dblp.org/db/conf/popl/)
-- [ISSTA](https://dblp.org/db/conf/issta/)
-- [TOSEM](https://dblp.org/db/journals/tosem/)
-- [TSE](https://dblp.org/db/journals/tse/)
-- [CCS](https://dblp.org/db/conf/ccs/)
-- [S&P](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8013)
+- [ICSE](https://dblp.org/db/conf/icse/) -International Conference on Software Engineering
+- [FSE](https://dblp.org/db/conf/sigsoft/) -Foundations of Software Engineering
+- [ASE](https://dblp.org/db/conf/kbse/) -Automated Software Engineering 
+- [PLDI](https://dblp.org/db/conf/pldi/) -Programming Language Design and Implementation
+- [POPL](https://dblp.org/db/conf/popl/) -Principles of Programming Languages
+- [ISSTA](https://dblp.org/db/conf/issta/) -International Symposium on Software Testing and Analysis 
+- [TOSEM](https://dblp.org/db/journals/tosem/) -ACM Transactions on Software Engineering and Methodology
+- [TSE](https://dblp.org/db/journals/tse/) -IEEE Transactions on Software Engineering
+- [CCS](https://dblp.org/db/conf/ccs/) -Conference on Computer and Communications Security 
+- [S&P](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8013) -IEEE Security & Privacy
 - 计算机学报
 - 软件学报
-
-## Taxonomy
-1. Present in a chronological order 以年代为主序
-2. In three seperate class: bug detection; bug classification; bug remedation 用Tags标签来区分
-3. In every year, classified by Confereces & Journal 以不同会议名称为辅序
 
 ## Tags
 - `security`
