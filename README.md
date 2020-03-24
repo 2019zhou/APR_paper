@@ -141,33 +141,73 @@
   - Tags: `fix`
   
 #### ASE
-#### PLDI
-#### POPL
+- L. Chen, Y. Pei, and C. A. Furia, “[Contract-Based Program Repair without The Contracts: An Extended Study](/bug_fixing_paper_collection/ase2017_3.pdf),” IEEE Trans. Softw. Eng., pp. 637–647, 2020.
+  - Tags: `fix`
+- A. Weiss, A. Guha, and Y. Brun, “[Tortoise: Interactive system configuration repair](/bug_fixing_paper_collection/ase2017_2.pdf),” ASE 2017 - Proc. 32nd IEEE/ACM Int. Conf. Autom. Softw. Eng., pp. 625–636, 2017.
+  - Tags: `fix`
+- Q. Xin and S. P. Reiss, “[Leveraging syntax-related code for automated program repair](/bug_fixing_paper_collection/ase2017_5.pdf),” ASE 2017 - Proc. 32nd IEEE/ACM Int. Conf. Autom. Softw. Eng., pp. 660–670, 2017.
+  - Tags: `fix`
+- R. K. Saha, Y. Lyu, H. Yoshida, and M. R. Prasad, “[E LIXIR : Effective Object-Oriented Program Repair](/bug_fixing_paper_collection/ase2017_4.pdf),” ASE 2017 - Proc. 32nd IEEE/ACM Int. Conf. Autom. Softw. Eng., pp. 648–659, 2017.
+  - Tags: `fix`
+  
 #### ISSTA
-#### TOSEM
+- A. Koyuncu, T. F. Bissyandé, D. Kim, J. Klein, M. Monperrus, and Y. Le Traon, “[Impact of tool support in patch construction](/bug_fixing_paper_collection/issta2017_1.pdf)”, ISSTA 2017 - Proc. 26th ACM SIGSOFT Int. Symp. Softw. Test. Anal., pp. 237–248, 2017
+  - Tags: `fix related`
+- Qi Xin, Steven P. Reiss [Identifying Test-Suite-Overfitted Patches through Test Case Generation](/bug_fixing_paper_collection/issta2017_2.pdf)
+  - Tags: `fix related`
+  
 #### TSE
-
-
+- J. Xuan et al., “[Nopol: Automatic Repair of Conditional Statement Bugs in Java Programs](/bug_fixing_paper_collection/tse2017_1.pdf),” IEEE Trans. Softw. Eng., vol. 43, no. 1, pp. 34–55, 2017.
+ - Tags: `fix`
+ 
+#### CCS
+- Frank Li Vern Paxson [A Large-Scale Empirical Study of Security Patches](/bug_fixing_paper_collection/ccs2017_1.pdf)
+ - Tags: `fix` `security` `empirical`
+ 
 ### 2016
 #### ICSE
+- Sergey Mechtaev Jooyong Yi Abhik Roychoudhury [Angelix: Scalable Multiline Program Patch Synthesis via Symbolic Analysis](/bug_fixing_paper_collection/icse2016_1.pdf)
+ - Tags: `fix`
+- Fan Long and Martin Rinard [An Analysis of the Search Spaces for Generate and Validate Patch Generation Systems](/bug_fixing_paper_collection/icse2016_2.pdf)
+ - Tags: `fix` 
+ 
 #### FSE
-#### ASE
-#### PLDI
-#### POPL
-#### ISSTA
-#### TOSEM
-#### TSE
-
+-  H. Liu, Y. Chen, and S. Lu, “[Understanding and generating high quality patches for concurrency bugs](/bug_fixing_paper_collection/fse2016_1.pdf),” Proc. ACM SIGSOFT Symp. Found. Softw. Eng., vol. 13-18-Nove, pp. 715–726, 2016.
+ - Tags: `fix` 
+- Shin Hwei,Tan Hiroaki,Yoshida,Mukul R. [Prasad Abhik RoychoudhuryAnti-patterns in Search-Based Program Repair](/bug_fixing_paper_collection/fse2016_2.pdf)
+ - Tags: `fix` 
+ 
 #### 软件学报
 - 玄跻峰,任志磊,王子元,谢晓园,江贺.[自动程序修复方法研究进展](/bug_fixing_Chinese_conf/自动程序修复方法研究进展_玄跻峰.pdf)
   - Tags: `综述` `fix`
+
 ### 2015
 #### ICSE
+- V. T. Pham, W. B. Ng, K. Rubinov, and A. Roychoudhury, “[Hercules: Reproducing crashes in real-world application binaries](/bug_fixing_paper_collection/icse2015_2.pdf),” Proc. - Int. Conf. Softw. Eng., vol. 1, pp. 891–901, 2015.
+ - Tags: `fix` 
+- S. Mechtaev, J. Yi, and A. Roychoudhury, “[DirectFix: Looking for simple program repairs](/bug_fixing_paper_collection/icse2015_3.pdf),” Proc. - Int. Conf. Softw. Eng., vol. 1, pp. 448–458, 2015.
+ - Tags: `fix` 
+- S. H. Tan and A. Roychoudhury, “[Relifix: Automated repair of software regressions](/bug_fixing_paper_collection/icse2015_6.pdf),” Proc. - Int. Conf. Softw. Eng., vol. 1, pp. 471–482, 2015.
+ - Tags: `fix` 
+- H. Zhong and Z. Su, “[An empirical study on real bug fixes](/bug_fixing_paper_collection/icse2015_7.pdf),” Proc. - Int. Conf. Softw. Eng., vol. 1, pp. 913–923, 2015.
+ - Tags: `fix` `empirical`
+- A. Nistor, P. C. Chang, C. Radoi, and S. Lu, “[CARAMEL: Detecting and fixing performance problems that have non-intrusive fixes](/bug_fixing_paper_collection/icse2015_5.pdf),” Proc. - Int. Conf. Softw. Eng., vol. 1, pp. 902–912, 2015.
+ - Tags: `fix` 
+- Q. Gao et al., “[Safe memory-leak fixing for C programs](/bug_fixing_paper_collection/icse2015_4.pdf),” Proc. - Int. Conf. Softw. Eng., vol. 1, no. 1, pp. 459–470, 2015.
+ - Tags: `fix` 
+- F. Pastore and L. Mariani, “[ZoomIn: Discovering failures by detecting wrong assertions](/bug_fixing_paper_collection/icse2015_1.pdf),” Proc. - Int. Conf. Softw. Eng., vol. 1, pp. 66–76, 2015.
+ - Tags: `fix` 
+ 
 #### FSE
-#### ASE
-#### PLDI
-#### POPL
-#### ISSTA
-#### TOSEM
-#### TSE
+- Edward K. Smith Earl T. Barr Claire Le Goues Yuriy Brun [Is the Cure Worse Than the Disease? Overfitting in Automated Program Repair](/bug_fixing_paper_collection/fse2015_2.pdf)
+ - Tags: `fix` 
 
+#### ASE
+- Qing Gao, Hansheng Zhang, Jie Wang, Yingfei Xiong, Lu Zhang, Hong Mei [Fixing Recurring Crash Bugs via Analyzing Q&A Sites](/bug_fixing_paper_collection/ase2015_2.pdf)
+ - Tags: `fix` 
+- Yalin Ke Kathryn T. Stolee [Repairing Programs with Semantic Code Search](/bug_fixing_paper_collection/ase2015_1.pdf)
+ - Tags: `fix` 
+
+#### TSE
+- Claire Le Goues, Neal Holtschulte, Edward K. Smith, Yuriy Brun [The ManyBugs and IntroClass Benchmarks for Automated Repair of C Programs](/bug_fixing_paper_collection/tse2015_1.pdf)
+ - Tags: `fix` 
