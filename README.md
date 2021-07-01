@@ -27,12 +27,19 @@
 - yet to explore~~
 
 ## Directory
-1. [2020](#2020)
-2. [2019](#2019)
-3. [2018](#2018)
-4. [2017](#2017)
-5. [2016](#2016)
-6. [2015](#2015)
+1. [2021](#2021)
+2. [2020](#2020)
+3. [2019](#2019)
+4. [2018](#2018)
+5. [2017](#2017)
+6. [2016](#2016)
+7. [2015](#2015)
+
+
+### 2021
+#### ICSE
+- N. Jiang, T. Lutellier and L. Tan, [CURE: Code-Aware Neural Machine Translation for Automatic Program Repair](/bug_fixing_paper_collection/icse2021_1.pdf)
+- Y. Jiang, H. Liu, N. Niu, L. Zhang and Y. Hu, [Extracting Concise Bug-Fixing Patches from Human-Written Patches in Version Control Systems](/bug_fixing_paper_collection/icse2021_2.pdf)
 
 ### 2020 
 #### ISSTA
